@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1757136562 source:c:\users\aweso\c++\blackholeconsole\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<algorithm>
+	<bits/stdc++.h>
+
